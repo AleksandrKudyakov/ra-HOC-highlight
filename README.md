@@ -20,3 +20,5 @@
 
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/vgq5ld18e9n4q39l/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-hoc-highlight/branch/main)
